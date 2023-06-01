@@ -377,7 +377,7 @@
                       i.a.createElement(
                         "div",
                         { className: "App-copyright" },
-                        "\xa9 2019",
+                        " ",
                         " ",
                         i.a.createElement(
                           "a",
